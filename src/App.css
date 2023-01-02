@@ -1,0 +1,22 @@
+*{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: center;
+}
+  
+.App{
+  padding: 30px;
+}
+.card{
+  width: 500px;
+   margin: 0  auto;
+   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+   color: blue
+  
+}
+.icon{
+  width: 100px;
+}
+
+ .boton {
+  color: blue;
+}
